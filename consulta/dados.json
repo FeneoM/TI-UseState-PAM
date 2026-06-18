@@ -1,0 +1,502 @@
+[
+  {
+    "rm": 1,
+    "nome": "Ana Souza",
+    "curso": "1M-DS"
+  },
+  {
+    "rm": 2,
+    "nome": "Bruno Lima",
+    "curso": "1M-DS-N"
+  },
+  {
+    "rm": 3,
+    "nome": "Carla Mendes",
+    "curso": "1M-DS-I"
+  },
+  {
+    "rm": 4,
+    "nome": "Diego Alves",
+    "curso": "1M-ADM"
+  },
+  {
+    "rm": 5,
+    "nome": "Eduarda Santos",
+    "curso": "1M-ADM-N"
+  },
+  {
+    "rm": 6,
+    "nome": "Felipe Rocha",
+    "curso": "1M-ADM-I"
+  },
+  {
+    "rm": 7,
+    "nome": "Gabriela Costa",
+    "curso": "2M-DS"
+  },
+  {
+    "rm": 8,
+    "nome": "Hugo Pereira",
+    "curso": "2M-DS-N"
+  },
+  {
+    "rm": 9,
+    "nome": "Isabela Lima",
+    "curso": "2M-DS-I"
+  },
+  {
+    "rm": 10,
+    "nome": "João Pedro",
+    "curso": "2M-ADM"
+  },
+  {
+    "rm": 11,
+    "nome": "Kauã Martins",
+    "curso": "2M-ADM-N"
+  },
+  {
+    "rm": 12,
+    "nome": "Larissa Almeida",
+    "curso": "2M-ADM-I"
+  },
+  {
+    "rm": 13,
+    "nome": "Marcos Vinícius",
+    "curso": "3M-DS"
+  },
+  {
+    "rm": 14,
+    "nome": "Natália Fernandes",
+    "curso": "3M-DS-N"
+  },
+  {
+    "rm": 15,
+    "nome": "Otávio Ribeiro",
+    "curso": "3M-DS-I"
+  },
+  {
+    "rm": 16,
+    "nome": "Paula Nogueira",
+    "curso": "3M-ADM"
+  },
+  {
+    "rm": 17,
+    "nome": "Rafael Araujo",
+    "curso": "3M-ADM-N"
+  },
+  {
+    "rm": 18,
+    "nome": "Sabrina Carvalho",
+    "curso": "3M-ADM-I"
+  },
+  {
+    "rm": 19,
+    "nome": "Thiago Barbosa",
+    "curso": "1M-DS"
+  },
+  {
+    "rm": 20,
+    "nome": "Valentina Dias",
+    "curso": "1M-DS-N"
+  },
+  {
+    "rm": 21,
+    "nome": "Wesley Oliveira",
+    "curso": "1M-DS-I"
+  },
+  {
+    "rm": 22,
+    "nome": "Yasmin Castro",
+    "curso": "1M-ADM"
+  },
+  {
+    "rm": 23,
+    "nome": "Caio Moreira",
+    "curso": "1M-ADM-N"
+  },
+  {
+    "rm": 24,
+    "nome": "Daniela Freitas",
+    "curso": "1M-ADM-I"
+  },
+  {
+    "rm": 25,
+    "nome": "Erick Souza",
+    "curso": "2M-DS"
+  },
+  {
+    "rm": 26,
+    "nome": "Fernanda Lima",
+    "curso": "2M-DS-N"
+  },
+  {
+    "rm": 27,
+    "nome": "Guilherme Mendes",
+    "curso": "2M-DS-I"
+  },
+  {
+    "rm": 28,
+    "nome": "Helena Alves",
+    "curso": "2M-ADM"
+  },
+  {
+    "rm": 29,
+    "nome": "Igor Santos",
+    "curso": "2M-ADM-N"
+  },
+  {
+    "rm": 30,
+    "nome": "Júlia Rocha",
+    "curso": "2M-ADM-I"
+  },
+  {
+    "rm": 31,
+    "nome": "Kevin Costa",
+    "curso": "3M-DS"
+  },
+  {
+    "rm": 32,
+    "nome": "Laís Pereira",
+    "curso": "3M-DS-N"
+  },
+  {
+    "rm": 33,
+    "nome": "Murilo Lima",
+    "curso": "3M-DS-I"
+  },
+  {
+    "rm": 34,
+    "nome": "Nina Almeida",
+    "curso": "3M-ADM"
+  },
+  {
+    "rm": 35,
+    "nome": "Olivier Martins",
+    "curso": "3M-ADM-N"
+  },
+  {
+    "rm": 36,
+    "nome": "Priscila Fernandes",
+    "curso": "3M-ADM-I"
+  },
+  {
+    "rm": 37,
+    "nome": "Quésia Ribeiro",
+    "curso": "1M-DS"
+  },
+  {
+    "rm": 38,
+    "nome": "Renato Araujo",
+    "curso": "1M-DS-N"
+  },
+  {
+    "rm": 39,
+    "nome": "Simone Carvalho",
+    "curso": "1M-DS-I"
+  },
+  {
+    "rm": 40,
+    "nome": "Tiago Barbosa",
+    "curso": "1M-ADM"
+  },
+  {
+    "rm": 41,
+    "nome": "Ulisses Dias",
+    "curso": "1M-ADM-N"
+  },
+  {
+    "rm": 42,
+    "nome": "Vera Oliveira",
+    "curso": "1M-ADM-I"
+  },
+  {
+    "rm": 43,
+    "nome": "Willian Castro",
+    "curso": "2M-DS"
+  },
+  {
+    "rm": 44,
+    "nome": "Ximena Moreira",
+    "curso": "2M-DS-N"
+  },
+  {
+    "rm": 45,
+    "nome": "Yuri Freitas",
+    "curso": "2M-DS-I"
+  },
+  {
+    "rm": 46,
+    "nome": "Zuleica Souza",
+    "curso": "2M-ADM"
+  },
+  {
+    "rm": 47,
+    "nome": "Amanda Lima",
+    "curso": "2M-ADM-N"
+  },
+  {
+    "rm": 48,
+    "nome": "Beatriz Mendes",
+    "curso": "2M-ADM-I"
+  },
+  {
+    "rm": 49,
+    "nome": "Carlos Alves",
+    "curso": "3M-DS"
+  },
+  {
+    "rm": 50,
+    "nome": "Débora Santos",
+    "curso": "3M-DS-N"
+  },
+  {
+    "rm": 51,
+    "nome": "Emanuel Rocha",
+    "curso": "3M-DS-I"
+  },
+  {
+    "rm": 52,
+    "nome": "Fabiana Costa",
+    "curso": "3M-ADM"
+  },
+  {
+    "rm": 53,
+    "nome": "Gustavo Pereira",
+    "curso": "3M-ADM-N"
+  },
+  {
+    "rm": 54,
+    "nome": "Heloísa Lima",
+    "curso": "3M-ADM-I"
+  },
+  {
+    "rm": 55,
+    "nome": "Ian Almeida",
+    "curso": "1M-DS"
+  },
+  {
+    "rm": 56,
+    "nome": "Jaqueline Martins",
+    "curso": "1M-DS-N"
+  },
+  {
+    "rm": 57,
+    "nome": "Kaique Fernandes",
+    "curso": "1M-DS-I"
+  },
+  {
+    "rm": 58,
+    "nome": "Letícia Ribeiro",
+    "curso": "1M-ADM"
+  },
+  {
+    "rm": 59,
+    "nome": "Matheus Araujo",
+    "curso": "1M-ADM-N"
+  },
+  {
+    "rm": 60,
+    "nome": "Noemi Carvalho",
+    "curso": "1M-ADM-I"
+  },
+  {
+    "rm": 61,
+    "nome": "Olívia Barbosa",
+    "curso": "2M-DS"
+  },
+  {
+    "rm": 62,
+    "nome": "Pedro Dias",
+    "curso": "2M-DS-N"
+  },
+  {
+    "rm": 63,
+    "nome": "Queila Oliveira",
+    "curso": "2M-DS-I"
+  },
+  {
+    "rm": 64,
+    "nome": "Ruan Castro",
+    "curso": "2M-ADM"
+  },
+  {
+    "rm": 65,
+    "nome": "Sofia Moreira",
+    "curso": "2M-ADM-N"
+  },
+  {
+    "rm": 66,
+    "nome": "Tatiane Freitas",
+    "curso": "2M-ADM-I"
+  },
+  {
+    "rm": 67,
+    "nome": "Ubirajara Souza",
+    "curso": "3M-DS"
+  },
+  {
+    "rm": 68,
+    "nome": "Vitor Lima",
+    "curso": "3M-DS-N"
+  },
+  {
+    "rm": 69,
+    "nome": "Wendell Mendes",
+    "curso": "3M-DS-I"
+  },
+  {
+    "rm": 70,
+    "nome": "Xavier Alves",
+    "curso": "3M-ADM"
+  },
+  {
+    "rm": 71,
+    "nome": "Yohana Santos",
+    "curso": "3M-ADM-N"
+  },
+  {
+    "rm": 72,
+    "nome": "Zélia Rocha",
+    "curso": "3M-ADM-I"
+  },
+  {
+    "rm": 73,
+    "nome": "Afonso Costa",
+    "curso": "1M-DS"
+  },
+  {
+    "rm": 74,
+    "nome": "Bianca Pereira",
+    "curso": "1M-DS-N"
+  },
+  {
+    "rm": 75,
+    "nome": "Célio Lima",
+    "curso": "1M-DS-I"
+  },
+  {
+    "rm": 76,
+    "nome": "Diana Almeida",
+    "curso": "1M-ADM"
+  },
+  {
+    "rm": 77,
+    "nome": "Enzo Martins",
+    "curso": "1M-ADM-N"
+  },
+  {
+    "rm": 78,
+    "nome": "Flávia Fernandes",
+    "curso": "1M-ADM-I"
+  },
+  {
+    "rm": 79,
+    "nome": "Gael Ribeiro",
+    "curso": "2M-DS"
+  },
+  {
+    "rm": 80,
+    "nome": "Helena Araujo",
+    "curso": "2M-DS-N"
+  },
+  {
+    "rm": 81,
+    "nome": "Ícaro Carvalho",
+    "curso": "2M-DS-I"
+  },
+  {
+    "rm": 82,
+    "nome": "Jade Barbosa",
+    "curso": "2M-ADM"
+  },
+  {
+    "rm": 83,
+    "nome": "Leonardo Dias",
+    "curso": "2M-ADM-N"
+  },
+  {
+    "rm": 84,
+    "nome": "Mariana Oliveira",
+    "curso": "2M-ADM-I"
+  },
+  {
+    "rm": 85,
+    "nome": "Nicolas Castro",
+    "curso": "3M-DS"
+  },
+  {
+    "rm": 86,
+    "nome": "Olga Moreira",
+    "curso": "3M-DS-N"
+  },
+  {
+    "rm": 87,
+    "nome": "Paulo Freitas",
+    "curso": "3M-DS-I"
+  },
+  {
+    "rm": 88,
+    "nome": "Quezia Souza",
+    "curso": "3M-ADM"
+  },
+  {
+    "rm": 89,
+    "nome": "Rodrigo Lima",
+    "curso": "3M-ADM-N"
+  },
+  {
+    "rm": 90,
+    "nome": "Sandra Mendes",
+    "curso": "3M-ADM-I"
+  },
+  {
+    "rm": 91,
+    "nome": "Tales Alves",
+    "curso": "1M-DS"
+  },
+  {
+    "rm": 92,
+    "nome": "Ursula Santos",
+    "curso": "1M-DS-N"
+  },
+  {
+    "rm": 93,
+    "nome": "Vicente Rocha",
+    "curso": "1M-DS-I"
+  },
+  {
+    "rm": 94,
+    "nome": "Weslley Costa",
+    "curso": "1M-ADM"
+  },
+  {
+    "rm": 95,
+    "nome": "Xanda Pereira",
+    "curso": "1M-ADM-N"
+  },
+  {
+    "rm": 96,
+    "nome": "Yago Lima",
+    "curso": "1M-ADM-I"
+  },
+  {
+    "rm": 97,
+    "nome": "Zara Almeida",
+    "curso": "2M-DS"
+  },
+  {
+    "rm": 98,
+    "nome": "Adriano Martins",
+    "curso": "2M-DS-N"
+  },
+  {
+    "rm": 99,
+    "nome": "Bruna Fernandes",
+    "curso": "2M-DS-I"
+  },
+  {
+    "rm": 100,
+    "nome": "César Ribeiro",
+    "curso": "2M-ADM"
+  }
+]
